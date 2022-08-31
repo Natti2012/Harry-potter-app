@@ -1,7 +1,9 @@
 
-<p align="right">
-  <img height="200" src="./videogame.png" />
-</p>
+# HARRY POTTER APP
+
+![Capturakhnl](https://user-images.githubusercontent.com/93220311/187746722-7d441bde-4d01-460a-a88c-b03e3873f120.PNG)
+
+
 
 ## Objetivos del Proyecto
 
@@ -50,6 +52,9 @@
 
 
 #### Test ¿A qué casa perteneces?
+
+![Capturahvkvh](https://user-images.githubusercontent.com/93220311/187746877-d5666c11-b52e-4cd7-8e10-b608c00f33da.PNG)
+
 
 
 ![Capturafdh](https://user-images.githubusercontent.com/93220311/187746143-26e3a263-42be-4d84-881c-b0608d155887.PNG)
