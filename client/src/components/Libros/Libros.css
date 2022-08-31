@@ -1,0 +1,71 @@
+
+.cardLibros{
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-bottom: 5%;
+    border: solid 1px #b88d31;;
+    background-color: rgba(127, 127, 124, 0.148);   
+}
+
+.imagenLibro{
+    margin-left: 5%;
+    margin-top: 5%;
+float: left;
+width: 20%;
+border: solid 1px rgb(12, 11, 11);
+
+
+}
+.imagenLibro img{
+    width: 100%;
+}
+
+.letra{
+color: #b88d31;
+ margin: 3%;
+}
+.libros-allDate{
+
+    width: 40%;
+    padding: 3%; 
+    margin-left: 40%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    border: solid 1px rgba(23, 22, 22, 0.878)
+   
+}
+.libros-allDate h4{
+    text-decoration:underline;
+}
+.btn-arriba{
+    
+    margin-left: 85%;
+}
+@media (max-width: 860px) {
+.libros-allDate{ 
+    padding: 3%; 
+    margin-left: 4%;
+    margin-top: 10%;
+    width: 90%;
+    margin-bottom: 5%;
+}
+.libros-allDate h4 , h5{
+    font-size: x-small;
+}
+.imagenLibro{
+    margin-left: 35%;
+    margin-top: 7%;
+    float: none;
+}
+.letra{
+    font-size:small;
+   
+    
+}
+ .cardLibros{
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+}

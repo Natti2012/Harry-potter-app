@@ -1,0 +1,76 @@
+.card {
+    margin: 20px;
+    width: 18rem;
+    height: 25rem;
+    transition: all .3s;
+   
+    position: relative;
+
+
+}
+
+.card:hover {
+    margin-top: -20px;
+}
+
+.card-title h5 {
+    margin-top: 5px;
+    font-size: 28px;
+    color: rgba(137, 21, 21, 0.903);
+}
+
+.linkCard {
+    text-decoration: none;
+ 
+}
+
+
+.card-date {
+    position: absolute;
+    position: relative;
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.card-date h5 {
+
+    margin-top: 5px;
+  text-transform: uppercase;
+
+    color: rgb(247, 162, 24);
+    font-size: 25px;
+}
+
+.card-date h6 {
+
+    
+    margin-top: 17rem;
+
+    color: rgb(239, 192, 100);
+    font-size: 18px;
+}
+.imagen {
+    position: absolute;
+    width: 100%;
+
+}
+
+.imagen img {
+    width: 100%;
+    height: 25rem;
+}
+
+@media (max-width: 1000px) {
+    .card {
+        width: 19rem;
+        height: 28rem;
+    }
+}
+
+@media (max-width: 840px) {
+    .card {
+        width: 15rem;
+        height: 24rem;
+    }
+}

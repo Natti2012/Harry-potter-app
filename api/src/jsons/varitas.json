@@ -1,0 +1,443 @@
+[
+  {
+    "dueño": "Albus Dumbledore",
+    "madera": "Saúco",
+    "longitud": "38,1 cm",
+    "nucleo": "Pelo de cola de thestral",
+    "flexibilidad": "Desconocida",
+    "notas": "La varita de Saúco, una de las reliquias de la Muerte. También conocida como el Palo de la Muerte y la Varita del Destino. Tiene la reputación de ser la varita más poderosa de todas.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/c/c9/The_Elder_Wand.JPG/revision/latest?cb=20190624010821"
+  },
+  {
+    "dueño": "Bellatrix Lestrange",
+    "madera": "Nogal",
+    "longitud": "32,38 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Inflexible",
+    "notas": "Esta varita se describe como 'inflexible'; Pasó a manos de Hermione Granger después de la escaramuza en la Mansión Malfoy en 1998.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/c/c3/Bellatrix_lestrange_wand.jpg/revision/latest?cb=20150414192437"
+  },
+  {
+    "dueño": "Sir Cadogan",
+    "madera": "Endrino (según la leyenda)",
+    "longitud": "29 cm (según la leyenda)",
+    "nucleo": "Bigotes de trol (según la leyenda)",
+    "flexibilidad": "Inflamable (según la leyenda)",
+    "notas": "Esta varita se rompió durante el encuentro de Sir Cadogan con el Wyvern de Wye. Sin embargo, Cadogan todavía trató de combatir a la bestia incluso con una varita rota, lo que llevó a su victoria cuando la varita perforó la lengua de la Wyvern y encendió sus gases estomacales.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/b/b1/PM_Varita_de_sir_Cadogan.png/revision/latest?cb=20190619184248"
+  },
+  {
+    "dueño": "Cedric Diggory",
+    "madera": "Fresno",
+    "longitud": "30,5 cm",
+    "nucleo": "Pelo de unicornio (unicornio macho)",
+    "flexibilidad": "Agradablemente fexlible",
+    "notas": "Esta varita era 'agradablemente flexible'; pelo de un unicornio macho particularmente fino (diecisiete palmos), que casi apuñala al Sr. Ollivander con su cuerno después de que arranca el pelo de la cola.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/d/de/Cedricdiggorywandnn8202.jpg/revision/latest?cb=20190624011122"
+  },
+  {
+    "dueño": "Celestina Warbeck",
+    "madera": "Alerce",
+    "longitud": "27 cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Flexible",
+    "notas": "La varita de Celestina Warbeck se menciona en la letra de la canción principal de su álbum más vendido, You Stole My Cauldron, but You Can't Have my Heart.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Las Chispas Plateadas",
+    "madera": "Álamo temblón",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Desconocida",
+    "notas": "Las Chispas Plateadas fue un  club de duelo conocido y secreto  en el siglo XVIII que supuestamente solo permitía que magos y brujas que poseían varitas hechas de madera de álamo temblón se unieran.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Dolores Umbridge",
+    "madera": "Abedul",
+    "longitud": "20 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita se describe como 'inusualmente corta'. Rota por el casco de un centauro en junio de 1996 en el bosque prohibido.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/b/b5/Varita_de_Dolores_Umbridge.jpg/revision/latest?cb=20190620185458"
+  },
+  {
+    "dueño": "Draco Malfoy",
+    "madera": "Espino",
+    "longitud": "25 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Razonablemente flexible",
+    "notas": "Esta varita pasó a manos de Harry Potter después de la escaramuza en la Mansión Malfoy en 1998 hasta que Harry tomó posesión de la Varita de Saúco y reparó su primera varita.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/3/39/DracoMalfoyWandNN8409.jpg/revision/latest?cb=20190620185347"
+  },
+  {
+    "dueño": "Dylan Manwood",
+    "madera": "Manzano",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Desconocida",
+    "notas": "Desconocida",
+    "imagen": ""
+  },
+  {
+    "dueño": "Eldritch Diggory",
+    "madera": "Álamo",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Fina",
+    "notas": "La existencia de estas varitas y sus dueños fue citada como evidencia contra el mito de que las varitas de álamo nunca eligieron a políticos",
+    "imagen": ""
+  },
+  {
+    "dueño": "Evangeline Orpington",
+    "madera": "Álamo",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Fina",
+    "notas": "La existencia de estas varitas y sus dueños fue citada como evidencia contra el mito de que las varitas de álamo nunca eligieron a políticos",
+    "imagen": ""
+  },
+  {
+    "dueño": "Fleur Delacour",
+    "madera": "Palisandro",
+    "longitud": "25 cm",
+    "nucleo": "Pelo de veela",
+    "flexibilidad": "Rígida",
+    "notas": "En esta varita, el núcleo es un cabello de la abuela de Fleur, que era una veela. Según Ollivander, las varitas con este núcleo son temperamentales.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/1/12/FleurDelacourWandNN8246.jpg/revision/latest?cb=20190624011737"
+  },
+  {
+    "dueño": "Garrick Ollivander",
+    "madera": "Carpe",
+    "longitud": "32 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Ligeramente flexible",
+    "notas": "Desconocidas",
+    "imagen": "https://static.wikia.nocookie.net/harrypotter/images/2/21/Garrick_Ollivander%27s_Wand.png/revision/latest?cb=20180730075445"
+  },
+  {
+    "dueño": "Gilderoy Lockhart",
+    "madera": "Cerezo",
+    "longitud": "23 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Ligeramente flexible",
+    "notas": "La varita fue descrita como costosa.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/2/2a/Varita_de_Gilderoy_Lockhart.jpg/revision/latest?cb=20190623044433"
+  },
+  {
+    "dueño": "Ginevra Weasley",
+    "madera": "Tejo",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Desconocida",
+    "notas": "Una varita de tejo es adecuada para una persona que es un feroz protector de los demás. La protección es un aspecto de la personalidad de Ginny. Ella ha defendido con frecuencia a Harry Potter contra otros.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/1/14/Ginny%27s_wand.JPG/revision/latest?cb=20190623044837"
+  },
+  {
+    "dueño": "Harry Potter (primera varita)",
+    "madera": "Acebo",
+    "longitud": "28 cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Bonita y flexible",
+    "notas": "'Hermana' de la varita de Voldemort : las plumas de fénix en el núcleo son ambas de Fawkes ; rota en diciembre de 1997 mientras huía en el Valle de Godric ; reparada con la Varita de Saúco en mayo de 1998.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/8/84/Varita_de_Harry_Potter.jpg/revision/latest?cb=20190623045649"
+  },
+  {
+    "dueño": "Harry Potter (segunda varita - temporal)",
+    "madera": "Endrino",
+    "longitud": "25 cm",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita fue tomada de un carroñero por Ron Weasley en 1997 y utilizada por Harry hasta 1998, cuando tomó la varita de Draco Malfoy.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/c/c3/Blackthornwand.jpg/revision/latest?cb=20190624012056"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (primera varita)",
+    "madera": "Arce",
+    "longitud": "35 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Razonablemente flexible",
+    "notas": "Una de estas cuatro varitas fue comprada por el hermano/a menor de Jacob en 1984.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/9/96/Varita_Hogwarts_Mystery.png/revision/latest?cb=20180308171854"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (primera varita)",
+    "madera": "Acacia",
+    "longitud": "30,5 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Flexible",
+    "notas": "Una de estas cuatro varitas fue comprada por el hermano/a menor de Jacob en 1984.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/9/96/Varita_Hogwarts_Mystery.png/revision/latest?cb=20180308171854"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (primera varita)",
+    "madera": "Carpe",
+    "longitud": "28 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Rígida",
+    "notas": "Una de estas cuatro varitas fue comprada por el hermano/a menor de Jacob en 1984.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/9/96/Varita_Hogwarts_Mystery.png/revision/latest?cb=20180308171854"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (primera varita)",
+    "madera": "Endrino",
+    "longitud": "28 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Ligeramente flexible",
+    "notas": "Una de estas cuatro varitas fue comprada por el hermano/a menor de Jacob en 1984.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/9/96/Varita_Hogwarts_Mystery.png/revision/latest?cb=20180308171854"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (segunda varita)",
+    "madera": "Ébano",
+    "longitud": "28 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Desconocida",
+    "notas": "Una de estas tres varitas fue comprada por el hermano/a menor de Jacob en el año escolar 1988-1989",
+    "imagen": "https://static.wikia.nocookie.net/harrypotter/images/f/f5/Potential_second_wands_of_Jacob%27s_sibling.jpg/revision/latest?cb=20190125014500"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (segunda varita)",
+    "madera": "Laurel",
+    "longitud": "30,5 cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Desconocida",
+    "notas": "Una de estas tres varitas fue comprada por el hermano/a menor de Jacob en el año escolar 1988-1989",
+    "imagen": "https://static.wikia.nocookie.net/harrypotter/images/f/f5/Potential_second_wands_of_Jacob%27s_sibling.jpg/revision/latest?cb=20190125014500"
+  },
+  {
+    "dueño": "Hermano o hermana de Jacob (segunda varita)",
+    "madera": "Secoya",
+    "longitud": "28 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Desconocida",
+    "notas": "Una de estas tres varitas fue comprada por el hermano/a menor de Jacob en el año escolar 1988-1989",
+    "imagen": "https://static.wikia.nocookie.net/harrypotter/images/f/f5/Potential_second_wands_of_Jacob%27s_sibling.jpg/revision/latest?cb=20190125014500"
+  },
+  {
+    "dueño": "Hermione Granger",
+    "madera": "Vid",
+    "longitud": "27 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Flexible y buena para conjurar hechizos",
+    "notas": "Esta varita fue confiscada cuando el trío fue capturado por carroñeros en 1998.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/c/c6/HermioneGrangerWandNN8411.jpg/revision/latest?cb=20190624010127"
+  },
+  {
+    "dueño": "Horace Slughorn",
+    "madera": "Cedro",
+    "longitud": "26 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Bastante flexible",
+    "notas": "Desconocidas",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/f/fb/ProfHoraceSlughornWandNN8294.jpg/revision/latest?cb=20150415195832"
+  },
+  {
+    "dueño": "Jacob",
+    "madera": "Arce",
+    "longitud": "25 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Fina",
+    "notas": "Partida a la mitad cuando Jacob fue expulsado de Hogwarts.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/0/04/Cosas_de_Jacob_%28Hogwarts_Mystery%29.png/revision/latest?cb=20180419181419"
+  },
+  {
+    "dueño": "James Potter I",
+    "madera": "Caoba",
+    "longitud": "28,5 cm",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Flexible",
+    "notas": "Esta varita era 'poquito más poderosa [que la de Lily] y excelente para transformaciones'",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/6/6c/Varita_de_James_Potter_I.jpg/revision/latest?cb=20190627135417"
+  },
+  {
+    "dueño": "Lily Evans",
+    "madera": "Sauce",
+    "longitud": "26 cm",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Elástica",
+    "notas": "Esta varita era 'una preciosa varita para encantamientos'.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Lucius Malfoy (primera varita)",
+    "madera": "Olmo",
+    "longitud": "46 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita estaba guardada en un bastón con cabeza de serpiente que llevaba Lucius 'prestado' por Lord Voldemort y destruido por la varita de Harry Potter durante la Batalla de los siete Potters en 1997.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/5/59/Lucius_Malfoy_first_wand.jpg/revision/latest?cb=20190627135446"
+  },
+  {
+    "dueño": "Lucius Malfoy (segunda varita)",
+    "madera": "Desconocida",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocidp",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita fue utilizada por Lucius Malfoy durante la Segunda Guerra Mágica",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/7/77/Lucius_malfoy_second_wand.jpg/revision/latest?cb=20190627135538"
+  },
+  {
+    "dueño": "Mary Cattermole",
+    "madera": "Cerezo",
+    "longitud": "Cerezo",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita fue confiscada por la Comisión de Registro de Hijos de Muggles en 1997.",
+    "imagen": "https://static.wikia.nocookie.net/harrypotter/images/1/17/Mary_cattermoles_wand.jpg/revision/latest?cb=20150905170427"
+  },
+  {
+    "dueño": "Merlín",
+    "madera": "Se cree que estaba hecha de roble inglés",
+    "longitud": "Desconocida",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Desconocida",
+    "notas": "Se sabe que las varitas de esta madera son leales, requieren que sus maestros posean fuerza, coraje y fidelidad.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Minerva McGonagall",
+    "madera": "Abeto",
+    "longitud": "24 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Rígida",
+    "notas": "Probablemente esta varita fue comprada por Minerva en Ollivanders a la edad de once años.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/5/5b/Varita_de_Minerva_McGonagall.jpg/revision/latest?cb=20190630231116"
+  },
+  {
+    "dueño": "Neville Longbottom (segunda varita)",
+    "madera": "Cerezo",
+    "longitud": "Desconocida",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita pudo haber sido una de las últimas de las varitas vendidas por el Sr. Ollivander antes de su desaparición en 1996.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/f/f0/Neville%27s_wand.jpg/revision/latest?cb=20190630231213"
+  },
+  {
+    "dueño": "Peter Pettigrew",
+    "madera": "Castaño",
+    "longitud": "23,5 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Frágil",
+    "notas": "Esta varita era de Pettigrew desde que Ollivander había sido secuestrado en 1996 ; pasó a manos de Ron Weasley después de la escaramuza en la Mansión Malfoy en 1998.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/4/4d/Peter_pettigrew_wand.jpg/revision/latest?cb=20190630231243"
+  },
+  {
+    "dueño": "Varita de Quirinus Quirrell",
+    "madera": "Aliso",
+    "longitud": "23 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Flexible",
+    "notas": "Se dice que las varitas de aliso encuentran a su compañero/a ideal, se convierte en una magnífica y leal compañera de ayuda. De todos los tipos de varitas, el aliso es el más adecuado para el trabajo con hechizos no verbales.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/8/8c/Quirrell_wand.png/revision/latest?cb=20150419103624"
+  },
+  {
+    "dueño": "Remus Lupin",
+    "madera": "Ciprés",
+    "longitud": "26 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Flexible",
+    "notas": "Se dice que las varitas de ciprés están bien adaptadas a los magos que se sacrifican y están dispuestos a morir una muerte heroica. Lupin pasó la mayor parte de su vida solo para salvar a otros de tener que lidiar con las consecuencias de su aflicción, y murió defendiendo el castillo de Hogwarts en la Batalla de Hogwarts .",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/4/40/Remus_wand.jpg/revision/latest?cb=20190630231310"
+  },
+  {
+    "dueño": "Ron Weasley (Primera varita)",
+    "madera": "Fresno",
+    "longitud": "30,5 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta vieja varita le pertenecía anteriormente al hermano mayor de Ron, Charlie Weasley. Fue gravemente dañada en septiembre de 1992 después de un enfrentamiento con el Sauce Boxeador.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/8/8c/Ron_weasley_first_wand.jpg/revision/latest?cb=20190706015232"
+  },
+  {
+    "dueño": "Ron Weasley (Segunda varita)",
+    "madera": "Sauce",
+    "longitud": "36 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Desconocida",
+    "notas": "Comprado con las ganancias de su padre en un sorteo del diario El Profeta. Arrebatada de él por carroñeros y reemplazada por la varita de Peter Pettigrew.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/6/62/RonWeasleyWandNN8413.jpg/revision/latest?cb=20190706015308"
+  },
+  {
+    "dueño": "Rubeus Hagrid",
+    "madera": "Roble inglés",
+    "longitud": "40,5 cm",
+    "nucleo": "Desconocido",
+    "flexibilidad": "Flexible",
+    "notas": "Esta varita se partió a la mitad cuando Hagrid fue expulsado de Hogwarts durante su tercer año; las piezas ciertamente están escondidas en el paraguas rosado de Hagrid.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/7/73/R%C3%A9plica_de_la_varita_de_Hagrid_I.jpg/revision/latest?cb=20191208220635"
+  },
+  {
+    "dueño": "Silvanus Kettleburn",
+    "madera": "Castaño",
+    "longitud": "29 cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Flexible",
+    "notas": "Desconocidas",
+    "imagen": ""
+  },
+  {
+    "dueño": "Sybill Trelawney",
+    "madera": "Avellano",
+    "longitud": "24 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Muy flexible",
+    "notas": "Esta varita tiene un parecido con la varita de Sirius Black , aunque hay pequeñas diferencias. Ambos tienen un mango cuadrado y tienen runas mágicas representadas en la varita, pero la varita de Trelawney tiene un color más oscuro y tiene una forma ondulada desde el mango hasta la punta.",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/1/13/Varita_de_Sybill_Trelawney.jpg/revision/latest?cb=20190818010219"
+  },
+  {
+    "dueño": "Tom Riddle",
+    "madera": "Tejo",
+    "longitud": "34 cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Desconocida",
+    "notas": "Esta varita es la 'hermana' de la varita de Harry Potter; las plumas de la cola del núcleo son ambas de Fawkes .",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/5/5a/LordVoldemortWandNN8403.jpg/revision/latest?cb=20190707002045"
+  },
+  {
+    "dueño": "Viktor Krum",
+    "madera": "Carpe",
+    "longitud": "26 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Bastante rígida",
+    "notas": "Esta varita es más gruesa de lo normal y está hecha por Gregorovitch .",
+    "imagen": "https://static.wikia.nocookie.net/esharrypotter/images/a/a3/ViktorKrumWand.jpg/revision/latest?cb=20190707003400"
+  },
+  {
+    "dueño": "Varitas producidas por Garrick Ollivander",
+    "madera": "Haya",
+    "longitud": "23 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Bonita y flexible",
+    "notas": "Estas varitas fueron probadas por Harry Potter en 1991.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Varitas producidas por Garrick Ollivander",
+    "madera": "Arce",
+    "longitud": "17¼ cm",
+    "nucleo": "Pluma de fénix",
+    "flexibilidad": "Muy elástica",
+    "notas": "Estas varitas fueron probadas por Harry Potter en 1991.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Varitas producidas por Garrick Ollivander",
+    "madera": "Ébano",
+    "longitud": "22 cm",
+    "nucleo": "Pelo de unicornio",
+    "flexibilidad": "Elástica",
+    "notas": "Estas varitas fueron probadas por Harry Potter en 1991.",
+    "imagen": ""
+  },
+  {
+    "dueño": "Varitas producidas por Garrick Ollivander",
+    "madera": "Manzano",
+    "longitud": "23 cm",
+    "nucleo": "Fibra de corazón de dragón",
+    "flexibilidad": "Rígida",
+    "notas": "Una varita probada por el Hermano o hermana de Jacob en 1984.",
+    "imagen": ""
+  }
+]

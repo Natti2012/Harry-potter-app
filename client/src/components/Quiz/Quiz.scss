@@ -1,0 +1,1010 @@
+.imgBack {
+    &__img {
+      margin: 10px 10px;
+      width: 50px;
+      padding: 5px;
+      position: absolute;
+      right: 0;
+      @media (min-width: 500px) {
+        width: 90px;
+      }
+      @media (min-width: 768px) {
+        width: 150px;
+      }
+      @media (min-width: 1024px) {
+        width: 150px;
+      }
+    }
+    &__icon {
+      color: rgba(245, 245, 245, 0.425);
+      position: relative;
+      top: 20px;
+      left: -80px;
+    }
+  }
+  .formHat {
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 70px 60px 0;
+    font-size: 1.5em;
+    @media (min-width: 500px) {
+      margin: 125px 100px 0;
+    }
+  
+    &__firstQuestion {
+      margin-top: 25px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          border-radius: 10px;
+          margin: auto;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          display: inline-block;
+          border-radius: 10px;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 20px;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px 10px;
+          margin: 0 0 25px 0;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            border-radius: 10px;
+            margin: 5px;
+            width: 130px;
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__secondQuestion {
+      margin-top: 50px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          border-radius: 10px;
+          margin: auto;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          display: inline-block;
+          border-radius: 10px;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 40px;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin: 15px 0 25px 0;
+          word-break: break-word;
+          max-width: 150px;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 135px;
+            height: 85px;
+            border-radius: 10px;
+            margin: 5px;
+  
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__thirdQuestion {
+      margin-top: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-bottom: white 1px solid;
+  
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0 20px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        flex-direction: column;
+        margin: 0 0 25px 0;
+        justify-content: end;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin-bottom: 20px;
+          text-align: start;
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+      }
+    }
+    &__fourQuestion {
+      margin-top: 50px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 30px;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin: 10px 0 35px 0;
+          &--option {
+            display: flex;
+            margin: auto;
+            @media (min-width: 768px) {
+              width: 60%;
+            }
+          }
+          &--img {
+            width: 150px;
+            border-radius: 10px;
+            margin: 5px;
+            height: 90px;
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__fiveQuestion {
+      margin-top: 50px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 30px;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin: 15px 0 5px 0;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 70%;
+            border-radius: 10px;
+            margin: 5px;
+            max-width: 315px;
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        margin-top: 15px;
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__sixQuestion {
+      border-bottom: white 1px solid;
+      margin-top: 50px;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 20px;
+        &__label {
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin: 15px 0 5px 0;
+          word-break: break-word;
+          min-width: 170px;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 140px;
+            border-radius: 10px;
+            margin: 5px;
+            height: 110px;
+  
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__sevenQuestion {
+      border-bottom: white 1px solid;
+      margin-top: 50px;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 40px;
+        &__label {
+          word-break: break-word;
+          min-width: 170px;
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+          margin: 15px 0 5px 0;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 140px;
+            border-radius: 10px;
+            margin: 5px;
+            height: 110px;
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        margin-top: 15px;
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__eightQuestion {
+      margin-top: 50px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+          width: 100%;
+          margin: auto;
+          border-radius: 10px;
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 10px;
+        &__label {
+          margin: 15px 0 5px 0;
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px 10px;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 140px;
+            border-radius: 10px;
+            margin: 5px;
+            height: 120px;
+  
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__nineQuestion {
+      margin-top: 50px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-bottom: white 1px solid;
+  
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 100%;
+          margin: auto;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          margin: 10px 0 20px 0;
+          color: rgb(0, 0, 0);
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.671);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        flex-direction: column;
+        margin: 0 0 25px 0;
+        &__label {
+          margin-bottom: 20px;
+          text-align: start;
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px;
+        //   &--option {
+        //   }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+      }
+    }
+    &__tenQuestion {
+      margin-top: 50px;
+      border-bottom: white 1px solid;
+      &--fieldsetQuestion {
+        display: flex;
+        flex-direction: column;
+        &__img {
+          width: 105%;
+          margin: auto;
+          border-radius: 10px;
+          @media (min-width: 768px) {
+            width: 60%;
+          }
+        }
+        &__question {
+          border-radius: 10px;
+          display: inline-block;
+          width: 100%;
+          margin: 10px 0;
+          color: #000;
+          font-weight: 800;
+          background-color: rgba(245, 245, 245, 0.603);
+          padding: 5px;
+        }
+      }
+      &--fieldsetInputs {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 10px;
+        &__label {
+          margin: 15px 0 5px 0;
+          border-radius: 10px;
+          background-color: rgba(0, 0, 0, 0.884);
+          padding: 5px 10px;
+          &--option {
+            display: flex;
+            margin: auto;
+          }
+          &--img {
+            width: 150px;
+            border-radius: 10px;
+            margin: 5px;
+            height: 130px;
+  
+            &:hover {
+              box-shadow: 5px 2.5px 10px 2.5px rgb(160, 158, 158);
+            }
+          }
+        }
+      }
+      &--response {
+        padding-bottom: 20px;
+        border-bottom: white 1px solid;
+      }
+    }
+    &__buttonRevelio {
+      margin: 20px auto 50px;
+      background-color: rgba(255, 255, 255, 0.815);
+      color: #000;
+      padding: 10px;
+      border-radius: 5%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 30px;
+      letter-spacing: 5px;
+      @media (min-width: 768px) {
+        padding: 15px;
+        font-size: 35px;
+        width: 180px;
+      }
+      &:hover {
+        box-shadow: 10px 10px 15px #0c0606;
+      }
+    }
+  }
+  
+  .modalGryffindor {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#a7aa0285, #9e020288);
+    max-width: 100vw;
+    z-index: 0;
+    &__window {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      max-width: 90vw;
+      opacity: unset;
+      &--content {
+        text-align: center;
+        padding: 1rem;
+        border-radius: 20px;
+        background-image: url(../../images/backgroundGryffindor.jpg);
+        background-size: cover;
+        box-shadow: 5px 5px 10px #565656;
+        margin: 10px;
+        max-width: 50vw;
+        @media (min-width: 1024px) {
+          max-width: 55vw;
+        }
+        @media (min-width: 1400px) {
+          max-width: 40vw;
+        }
+        &__header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 3px double #fff;
+          text-shadow: 1px 1px 2px #fff;
+  
+          &--title {
+            color: #fff;
+            text-shadow: 1px 1px 2px #000;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            @media (min-width: 425px) {
+              font-size: 1.55rem;
+            }
+          }
+          &--close {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.5s ease;
+            color: #fff;
+            margin-left: 1rem;
+            font-size: 18px;
+            &:hover {
+              font-size: 19px;
+            }
+            @media (min-width: 425px) {
+              margin-left: 2rem;
+            }
+          }
+        }
+        &__detail {
+          border-radius: 20px;
+          &--img {
+            width: 20vw;
+            @media (min-width: 425px) {
+              width: 100px;
+              margin: 10px 20px 10px 10px;
+            }
+            @media (min-width: 768px) {
+              width: 150px;
+            }
+          }
+          &--paragraph {
+            font-size: 1.15rem;
+            @media (min-width: 450px) {
+              font-size: 1.2rem;
+            }
+            @media (min-width: 768px) {
+              font-size: 1.55rem;
+            }
+            @media (min-width: 1024px) {
+              font-size: 1.8rem;
+            }
+            @media (min-width: 1400px) {
+              font-size: 2.2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .modalSlytherin {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#5c5f5c85, #12640188);
+    max-width: 100vw;
+    z-index: 0;
+    &__window {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      max-width: 90vw;
+      opacity: unset;
+      &--content {
+        text-align: center;
+        padding: 1.5rem;
+        border-radius: 20px;
+        background-image: url(../../images/backgroundSlytherin.jpg);
+        background-size: cover;
+        box-shadow: 5px 5px 10px #565656;
+        margin: 10px;
+        max-width: 50vw;
+        @media (min-width: 1024px) {
+          max-width: 55vw;
+        }
+        @media (min-width: 1400px) {
+          max-width: 40vw;
+        }
+        &__header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 3px double #fff;
+          text-shadow: 1px 1px 2px #fff;
+  
+          &--title {
+            color: #fff;
+            text-shadow: 1px 1px 2px #000;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            @media (min-width: 425px) {
+              font-size: 1.55rem;
+            }
+          }
+          &--close {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.5s ease;
+            color: #fff;
+            margin-left: 1rem;
+            font-size: 18px;
+            &:hover {
+              font-size: 19px;
+            }
+            @media (min-width: 425px) {
+              margin-left: 2rem;
+            }
+          }
+        }
+        &__detail {
+          border-radius: 20px;
+          &--img {
+            width: 20vw;
+            @media (min-width: 425px) {
+              width: 100px;
+              margin: 10px 20px 10px 10px;
+            }
+            @media (min-width: 768px) {
+              width: 150px;
+            }
+          }
+          &--paragraph {
+            font-size: 1.15rem;
+            @media (min-width: 450px) {
+              font-size: 1.2rem;
+            }
+            @media (min-width: 768px) {
+              font-size: 1.55rem;
+            }
+            @media (min-width: 1024px) {
+              font-size: 1.8rem;
+            }
+            @media (min-width: 1400px) {
+              font-size: 2.2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .modalRavenclaw {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#55555585, #03015c88);
+    max-width: 100vw;
+    z-index: 0;
+    &__window {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      max-width: 90vw;
+      opacity: unset;
+      &--content {
+        text-align: center;
+        padding: 1rem;
+        border-radius: 20px;
+        background-image: url(../../images/backgroundRavenclaw.jpg);
+        background-size: cover;
+        box-shadow: 5px 5px 10px #565656;
+        margin: 10px;
+        max-width: 50vw;
+        @media (min-width: 1024px) {
+          max-width: 55vw;
+        }
+        @media (min-width: 1400px) {
+          max-width: 40vw;
+        }
+        &__header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 3px double #fff;
+          text-shadow: 1px 1px 2px #fff;
+  
+          &--title {
+            color: #fff;
+            text-shadow: 1px 1px 2px #000;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            @media (min-width: 425px) {
+              font-size: 1.55rem;
+            }
+          }
+          &--close {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.5s ease;
+            color: #fff;
+            margin-left: 1rem;
+            font-size: 18px;
+            &:hover {
+              font-size: 19px;
+            }
+            @media (min-width: 425px) {
+              margin-left: 2rem;
+            }
+          }
+        }
+        &__detail {
+          border-radius: 20px;
+          &--img {
+            width: 20vw;
+            @media (min-width: 425px) {
+              width: 100px;
+              margin: 10px 20px 10px 10px;
+            }
+            @media (min-width: 768px) {
+              width: 150px;
+            }
+          }
+          &--paragraph {
+            font-size: 1.15rem;
+            @media (min-width: 450px) {
+              font-size: 1.2rem;
+            }
+            @media (min-width: 768px) {
+              font-size: 1.55rem;
+            }
+            @media (min-width: 1024px) {
+              font-size: 1.8rem;
+            }
+            @media (min-width: 1400px) {
+              font-size: 2.2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .modalHufflepuff {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(#08080885, #9fa10488);
+    max-width: 100vw;
+    z-index: 0;
+    &__window {
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      max-width: 90vw;
+      opacity: unset;
+      &--content {
+        text-align: center;
+        padding: 1rem;
+        border-radius: 20px;
+        background-image: url(../../images/backgroundHufflepuff.jpg);
+        background-size: cover;
+        box-shadow: 5px 5px 10px #565656;
+        margin: 10px;
+        max-width: 50vw;
+        @media (min-width: 1024px) {
+          max-width: 55vw;
+        }
+        @media (min-width: 1400px) {
+          max-width: 40vw;
+        }
+        &__header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          margin-bottom: 1rem;
+          padding-bottom: 0.5rem;
+          border-bottom: 3px double #fff;
+          text-shadow: 1px 1px 2px #fff;
+  
+          &--title {
+            color: #fff;
+            text-shadow: 1px 1px 2px #000;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            @media (min-width: 425px) {
+              font-size: 1.55rem;
+            }
+          }
+          &--close {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: all 0.5s ease;
+            color: #fff;
+            margin-left: 1rem;
+            font-size: 18px;
+            &:hover {
+              font-size: 19px;
+            }
+            @media (min-width: 425px) {
+              margin-left: 2rem;
+            }
+          }
+        }
+        &__detail {
+          border-radius: 20px;
+          &--img {
+            width: 20vw;
+            @media (min-width: 425px) {
+              width: 100px;
+              margin: 10px 20px 10px 10px;
+            }
+            @media (min-width: 768px) {
+              width: 150px;
+            }
+          }
+          &--paragraph {
+            font-size: 1.15rem;
+            @media (min-width: 450px) {
+              font-size: 1.2rem;
+            }
+            @media (min-width: 768px) {
+              font-size: 1.55rem;
+            }
+            @media (min-width: 1024px) {
+              font-size: 1.8rem;
+            }
+            @media (min-width: 1400px) {
+              font-size: 2.2rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .hidden {
+    height: 0;
+    margin-bottom: 0px;
+    overflow: hidden;
+  }

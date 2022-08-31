@@ -1,0 +1,97 @@
+.allHouses {}
+
+.cardHouse {
+
+    width: 70%;
+    padding: 5%;
+    margin-top: 5%;
+    margin-left: 15%;
+    border: solid 1px rgb(12, 11, 11);
+    background-color: rgba(127, 127, 124, 0.148);
+
+
+}
+
+.imagenCasa {
+    margin: 7%;
+
+    float: left;
+    width: 25%;
+    border: solid 1px rgb(12, 11, 11);
+}
+
+.imagenCasa img {
+    width: 100%;
+
+}
+
+.caracteristicas {
+    background-color: rgba(219, 209, 147, 0.188);
+    width: 40%;
+
+
+    padding: 3%;
+    float: right;
+    margin-top: 3%;
+
+
+}
+
+.caracteristicas h3 {
+    text-decoration: underline;
+}
+
+.datos {
+
+    margin-top: 38%;
+}
+
+.datos h3 {
+    width: 30%;
+    margin-right: 3%;
+
+}
+
+.datos p {
+    width: 55%;
+    margin-right: 3%;
+
+}
+
+@media (max-width: 860px) {
+    .imagenCasa {
+        width: 90%;
+    }
+
+    .caracteristicas {
+        width: 90%;
+        margin-bottom: 5%;
+
+    }
+
+    .caracteristicas h5,
+    p {
+        font-size: x-small;
+    }
+
+    .caracteristicas h3 {
+        font-size: small;
+    }
+
+    .datos {
+        margin-top: 158%;
+    }
+
+    .datos p {
+        width: 90%;
+        margin: 2%;
+    }
+
+    .datos h3 {
+        width: 80%;
+        margin-right: 10%;
+        margin-top: 4%;
+        font-size: medium;
+
+    }
+}

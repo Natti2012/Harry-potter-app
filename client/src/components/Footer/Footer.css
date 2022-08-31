@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    width: 100%;
+    /* background-image: url('../../images/harryFooter.jpg'); */
+    /* background-size: cover ; */
+  
+   margin-top: 15%;
+}
+
+.footer .text {
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Montserrat";
+}
+
+.footer .about {
+    text-align: center;
+}
+
+.footer .hecho { 
+    margin-top: 2%;
+    text-align: center;
+    color: #000000;
+}
+.footer .hecho img { 
+    width: 100%;
+}

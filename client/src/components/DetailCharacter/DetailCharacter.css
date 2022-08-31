@@ -1,0 +1,80 @@
+.CardDetail{
+   display: flex;
+   width: 60%;
+   margin-top: 10%;
+  margin-left: auto;
+   margin-right: auto;
+   padding-top: 1%;
+   border: solid 1px black;
+}
+.CardDetailContent{
+display: flex;
+flex-direction:row;
+justify-content: space-around;
+/* background-color: blue; */
+width: 100%;
+height: 100%;
+}
+.letraDetail{
+  color: #b88d31;
+}
+.titulo{
+  text-decoration: underline;
+
+}
+.datos{
+  margin-top: 10%;
+
+}
+.contentDetail{
+  display: flex;
+flex-direction: row;
+width: 50%;
+border: solid 1px rgba(0, 0, 0, 0.776) ;
+
+  background-color: rgb(219, 209, 147, 0.188);
+
+margin-bottom: 10%;
+margin-top: 3%;
+}
+.contentDetailImg{
+     position: relative;
+  width: 25%;  
+   margin-top: 3%;
+ 
+}
+.contentDetailImg img{
+   width: 90%;
+}
+.datosdetail{
+position: absolute;
+   width: 40%;
+}
+@media (max-width: 860px) {
+  .CardDetailContent{
+     flex-direction: column;
+  }
+  .CardDetail{
+     width: 90%;
+     margin-top: 10%;
+    margin-left: 5%;
+     margin-right: 5%;
+ }
+ .contentDetailImg{
+  width: 50%;
+  margin-top: 5%;
+  margin-left: 25%;
+  
+  
+}
+
+.contentDetail{
+width: 90%;
+margin-bottom: 10%;
+margin-top: 3%;
+margin-left: 5%;
+}
+.row h4, h5{
+  font-size: medium;
+}
+}

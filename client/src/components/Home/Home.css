@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.btn-masPers{
+    margin-top: 12%;
+    margin-left: 0%;
+}

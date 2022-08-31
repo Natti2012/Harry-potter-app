@@ -1,0 +1,6 @@
+export const GET_LIBROS = "GET_LIBROS"
+export const GET_CHARACTERS = "GET_CHARACTERS"
+export const GET_CHARACTERS_DETAILS = "GET_CHARACTERS_DETAILS"
+export const GET_CASAS = "GET_CASAS"
+export const GET_VARITAS = "GET_VARITAS"
+export const CLEAR_PAGE ="CLEAR_PAGE"
