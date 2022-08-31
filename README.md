@@ -19,9 +19,7 @@
 - [ ] Express
 - [ ] MongoDB
 
-#### Landing Page
 
-![Capturahgj](https://user-images.githubusercontent.com/93220311/181876697-57934257-8286-4d54-ab92-6130fd757742.PNG)
 
 #### Home
 
